@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "e0949392878b5648",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d0245ed2150149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7cc1d4aa0665077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Creatives AI Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f67e6581d820473",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/inoculation.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "08058f14705d4e9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/postgresql-is-amazing.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9075e4d6d55c7c47",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/level-up-it.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8512c7b32dce9a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bead7c00763b112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7730fdf74bbe87e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1ff6347148fcd4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c62d898165ec93cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0755ae32b7b23f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e83f2403fee62e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b6be3decd0d2c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technical Creatives AI Presentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdcfad1676f4305e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technical Creatives AI Presentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9f46d46e7578739",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cbef719274706f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technical Creatives AI Presentation.md"
+              }
+            }
+          },
+          {
+            "id": "047ca353c96eef31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "28ad576ae0bd4da5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "b7cc1d4aa0665077",
+  "lastOpenFiles": [
+    "Excalidraw/inoculation.excalidraw.md",
+    "Technical Creatives AI Presentation.md",
+    "Excalidraw/inoculation.excalidraw.svg",
+    "Excalidraw/postgresql-is-amazing.excalidraw.md",
+    "export/Technical Creatives AI Presentation/plugin/menu/README.md",
+    "export/Technical Creatives AI Presentation/plugin/chart/plugin.js",
+    "export/Technical Creatives AI Presentation/plugin/chart/chart.min.js",
+    "export/Technical Creatives AI Presentation/plugin/chart/README.md",
+    "export/Technical Creatives AI Presentation/plugin/chart",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/whiteboard.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/sponge.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-white.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-red.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-purple.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-orange.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-green.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-blue.png",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/style.css",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/plugin.js",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/plugin (copy).js",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/img",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/_style.css",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard/README.md",
+    "export/Technical Creatives AI Presentation/plugin/chalkboard",
+    "export/Technical Creatives AI Presentation/plugin/customcontrols/plugin.js",
+    "export/Technical Creatives AI Presentation/plugin/customcontrols/README.md",
+    "export/Technical Creatives AI Presentation/plugin/menu/CONTRIBUTING.md",
+    "Technical Creative AI Overflow.md",
+    "Excalidraw/citizen-development-badge.excalidraw.md",
+    "Excalidraw/road-to-programming.excalidraw.md",
+    "Excalidraw/agenda.excalidraw.md",
+    "Excalidraw/level-up-it.excalidraw.md",
+    "Excalidraw/about-chuck-boecking.excalidraw.md",
+    "Excalidraw/github.excalidraw.md",
+    "Excalidraw/ai-choice-me-too-action.excalidraw.md",
+    "Excalidraw/super-clerk.excalidraw.md",
+    "Home.md",
+    "Excalidraw/information-data.excalidraw.md",
+    "Excalidraw/title.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 16.40.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 21.41.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-31 11.09.15.excalidraw.md",
+    "Test Slide.md",
+    "old Technical Creatives AI Presentation.md"
+  ]
+}
