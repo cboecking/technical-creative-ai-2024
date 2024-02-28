@@ -38,7 +38,7 @@ If we have time, I will give you a quick inoculation into what I believe are the
 ![[about-chuck-boecking.excalidraw.svg]]
 
 Notes:
-- me = business systems
+- me = create, deploy, teach business systems
 - employee happy
 - executive happy
 - job to remove barriers - AI remove some and raise others
@@ -89,6 +89,7 @@ value proposition and competitive advantage
 ![[information-data.excalidraw.svg]]
 
 Notes:
+- before get to first point...
 - information
 - data
 - tie picture of success - massive teams
@@ -108,8 +109,7 @@ I want to tie this slide back to the picture of success => the story about ChatG
 The question is: how do you get the same benefit without all the work?
 
 ---
-![[github.excalidraw.svg]]
-
+![[github-amazing.excalidraw.svg]]
 Notes:
 - sell you on github
 - it has...
@@ -325,14 +325,14 @@ Tools
 - PostgresML - way to run LLM directly in PostgreSQL
 
 ---
-![[presentation.excalidraw.svg]]
+![[presentation-slides.excalidraw.svg]]
 
-![[presentation.svg]]
+![[presentation-qr.svg]]
 
 ---
 ![[presentation-github.excalidraw.svg]]
 
-![[github.svg]]
+![[github-qr.svg]]
 
 ---
 # More

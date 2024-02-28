@@ -18,56 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8fe3a0943dd99c77",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/presentation-github.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "bc9bab3b1d80545a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/presentation.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7f67e6581d820473",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/inoculation.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "08058f14705d4e9a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/postgresql-is-amazing.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9075e4d6d55c7c47",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/level-up-it.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -223,18 +173,22 @@
   },
   "active": "b7cc1d4aa0665077",
   "lastOpenFiles": [
-    "Excalidraw/super-clerk.excalidraw.md",
     "Technical Creatives AI Presentation.md",
-    "Excalidraw/presentation.excalidraw.md",
-    "Excalidraw/presentation-github.excalidraw.md",
-    "Excalidraw/presentation-github.excalidraw.svg",
-    "Excalidraw/presentation.excalidraw.svg",
-    "Excalidraw/Drawing 2024-02-27 18.06.51.excalidraw.md",
-    "Excalidraw/presentation.svg",
-    "Excalidraw/inoculation.excalidraw.md",
-    "Excalidraw/github.svg",
-    "Excalidraw/inoculation.excalidraw.svg",
+    "Excalidraw/github-amazing.excalidraw.md",
+    "Excalidraw/github-qr.svg",
+    "Excalidraw/github-amazing.excalidraw.svg",
+    "Excalidraw/github.excalidraw.svg",
+    "Excalidraw/presentation-slides.excalidraw.md",
+    "Excalidraw/presentation-slides.excalidraw.svg",
+    "Excalidraw/level-up-it.excalidraw.md",
     "Excalidraw/postgresql-is-amazing.excalidraw.md",
+    "Excalidraw/presentation-github.excalidraw.md",
+    "Excalidraw/super-clerk.excalidraw.md",
+    "Excalidraw/presentation-github.excalidraw.svg",
+    "Excalidraw/Drawing 2024-02-27 18.06.51.excalidraw.md",
+    "Excalidraw/presentation-qr.svg",
+    "Excalidraw/inoculation.excalidraw.md",
+    "Excalidraw/inoculation.excalidraw.svg",
     "export/Technical Creatives AI Presentation/plugin/menu/README.md",
     "export/Technical Creatives AI Presentation/plugin/chart/plugin.js",
     "export/Technical Creatives AI Presentation/plugin/chart/chart.min.js",
@@ -243,8 +197,6 @@
     "export/Technical Creatives AI Presentation/plugin/chalkboard/img/whiteboard.png",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/img/sponge.png",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-white.png",
-    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-red.png",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/style.css",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/plugin.js",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/plugin (copy).js",
@@ -259,9 +211,7 @@
     "Excalidraw/citizen-development-badge.excalidraw.md",
     "Excalidraw/road-to-programming.excalidraw.md",
     "Excalidraw/agenda.excalidraw.md",
-    "Excalidraw/level-up-it.excalidraw.md",
     "Excalidraw/about-chuck-boecking.excalidraw.md",
-    "Excalidraw/github.excalidraw.md",
     "Excalidraw/ai-choice-me-too-action.excalidraw.md",
     "Home.md",
     "Excalidraw/information-data.excalidraw.md",
