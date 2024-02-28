@@ -116,7 +116,7 @@ Notes:
 - battled tested...
 - Real proof - sofware development AI dominant (msft 50%)
 - Why - text and ecosystems
-- Picture of success
+- Picture of success - github tell your story
 
 I am going to sell you on github - not for development, but for managing all your companies information! It can handle everything from marketing messages to manufacturing work instructions.
 
@@ -217,10 +217,13 @@ Ref:
 ---
 ![[level-up-it.excalidraw.svg]]
 Notes:
-- IT all code
-- cooperate
+- Long-standing reputation
+- Last example indicator of way more
+- Solution
+	- IT all code
+	- cooperate
 - citizen develop pride
-- side note: ui (WTF) is about to change
+- aside: ui (WTF) is about to change
 - IT needs framework
 
 IT has had a long-standing reputation of being a barrier to progress (slowing things down). The story that i just described is going to make this situation a whole lot worse.
@@ -244,15 +247,15 @@ Tangent about UI: see of windows, tabs and fields. This UI is going away....
 ---
 ![[postgresql-is-amazing.excalidraw.svg]]
 Notes:
-# PostgreSQL is Amazing
-- page is geeky and important (it remove barriers - users need better access)
+- page is geeky and important (IT remove barriers - users need better access)
+- DB in corner - not good - cause pain
 - postgresql core features (it has... quick!!)
 - postgresql - what you did not know
-	- postgREST - openapi compliant
+	- postgREST - openapi compliant - XLS
 	- webhooks
 	- postgresML
 - user and permissions at the db
-- PSQL + PostgREST + HTMX
+- PSQL + PostgREST + HTMX => Time Clock
 - Supabase and PostgREST- learn the most
 
 It has:
