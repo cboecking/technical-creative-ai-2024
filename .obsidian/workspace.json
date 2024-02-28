@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "8fe3a0943dd99c77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/presentation-github.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bc9bab3b1d80545a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/presentation.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7f67e6581d820473",
             "type": "leaf",
             "state": {
@@ -203,8 +223,16 @@
   },
   "active": "b7cc1d4aa0665077",
   "lastOpenFiles": [
-    "Excalidraw/inoculation.excalidraw.md",
+    "Excalidraw/super-clerk.excalidraw.md",
     "Technical Creatives AI Presentation.md",
+    "Excalidraw/presentation.excalidraw.md",
+    "Excalidraw/presentation-github.excalidraw.md",
+    "Excalidraw/presentation-github.excalidraw.svg",
+    "Excalidraw/presentation.excalidraw.svg",
+    "Excalidraw/Drawing 2024-02-27 18.06.51.excalidraw.md",
+    "Excalidraw/presentation.svg",
+    "Excalidraw/inoculation.excalidraw.md",
+    "Excalidraw/github.svg",
     "Excalidraw/inoculation.excalidraw.svg",
     "Excalidraw/postgresql-is-amazing.excalidraw.md",
     "export/Technical Creatives AI Presentation/plugin/menu/README.md",
@@ -217,10 +245,6 @@
     "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-yellow.png",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-white.png",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-red.png",
-    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-purple.png",
-    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-orange.png",
-    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-green.png",
-    "export/Technical Creatives AI Presentation/plugin/chalkboard/img/chalk-blue.png",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/style.css",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/plugin.js",
     "export/Technical Creatives AI Presentation/plugin/chalkboard/plugin (copy).js",
@@ -239,14 +263,10 @@
     "Excalidraw/about-chuck-boecking.excalidraw.md",
     "Excalidraw/github.excalidraw.md",
     "Excalidraw/ai-choice-me-too-action.excalidraw.md",
-    "Excalidraw/super-clerk.excalidraw.md",
     "Home.md",
     "Excalidraw/information-data.excalidraw.md",
     "Excalidraw/title.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 16.40.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-22 21.41.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-31 11.09.15.excalidraw.md",
-    "Test Slide.md",
-    "old Technical Creatives AI Presentation.md"
+    "Excalidraw/Drawing 2024-01-22 21.41.34.excalidraw.md"
   ]
 }

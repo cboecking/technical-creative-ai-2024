@@ -325,12 +325,14 @@ Tools
 - PostgresML - way to run LLM directly in PostgreSQL
 
 ---
-# Presentation
+![[presentation.excalidraw.svg]]
+
+![[presentation.svg]]
 
 ---
-# Links
-- ChatGPT (action - need to create)
-- [Google Document AI](https://cloud.google.com/document-ai)
+![[presentation-github.excalidraw.svg]]
+
+![[github.svg]]
 
 ---
 # More
